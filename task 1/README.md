@@ -1,5 +1,5 @@
-there is a problem while doing a task
+# Task 1
 
-![task-1](task 1.jpg)
+The task is abt staring reposotories
 
-move along.
+<p align="center"><img src ="https://raw.githubusercontent.com/akshithrao123/amfoss-task/master/task%201/task%201.png" /></p
